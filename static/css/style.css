@@ -1,0 +1,17 @@
+
+h1 {
+    font: small-caps bold 24px/1 sans-serif;
+    font-size: 60px;
+    text-align: center;
+    text-align: top;
+    color: Violet
+}
+
+h2 {
+    color: Blue;
+}
+
+p {
+  color: red;
+  width: 500px;
+}
